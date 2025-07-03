@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1751511384 source:c:\users\abdie\desktop\itla tareas\2025 c2\programacion para mecatronicos\abdiel_paredes_pm_2025_c2-main\tarea clase 7\tarea 2 (programa alumnos-orden alfabeticos)\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
